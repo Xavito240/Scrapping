@@ -1,6 +1,6 @@
 **README** - Scraping de Caractéristiques Techniques
 
-	Ce script Python a été développé pour automatiser le processus de scraping de caractéristiques techniques à partir d'une page web donnée. Il utilise les bibliothèques Python requests, bs4 (Beautiful Soup), et tkinter pour créer une interface utilisateur simple pour effectuer le scraping.
+Ce script Python a été développé pour automatiser le processus de scraping de caractéristiques techniques à partir d'une page web donnée. Il utilise les bibliothèques Python requests, bs4 (Beautiful Soup), et tkinter pour créer une interface utilisateur simple pour effectuer le scraping.
 
 **Prérequis**
 
